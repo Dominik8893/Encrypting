@@ -1,0 +1,4 @@
+Code created to learn the encryption library in c#
+
+capable of creating a key from a user password which can be further used to encrypt a file
+the encrypted file can than be decrypted by providing the correct key
